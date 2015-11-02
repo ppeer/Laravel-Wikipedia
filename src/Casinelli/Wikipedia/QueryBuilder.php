@@ -2,7 +2,7 @@
 
 class QueryBuilder {
 
-	protected $url = "http://en.wikipedia.org/w/api.php";
+	protected $url = "http://nl.wikipedia.org/w/api.php";
 
 	/**
 	 * Contains query parameters that cannot be modified
